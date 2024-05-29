@@ -1,0 +1,1 @@
+python run -m streamlit run uilayer/main.py --server.enableCORS false --server.enableXsrfProtection false
